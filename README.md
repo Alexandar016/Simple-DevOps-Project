@@ -18,7 +18,5 @@ Deploy ```target/WebApp.war``` on Tomcat
 
 More text to be added.
 
-
-
 Add instruction to deploy to ElasticBeanstalk
 
